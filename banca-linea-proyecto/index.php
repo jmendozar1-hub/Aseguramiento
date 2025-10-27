@@ -13,7 +13,6 @@
             <h1>Banco en Línea UMG</h1>
         </div>
     </header>
-
     <main>
         <h2>Bienvenido al Sistema de Banca en Línea</h2>
         <div class="opciones">
